@@ -1952,7 +1952,8 @@
     ],
     "twilightforest.entity.EntityTFMosquitoSwarm": [
         "fly|true",
-        "hostile"
+        "hostile",
+        "waterAllergy"
     ],
     "twilightforest.entity.EntityTFPinchBeetle": [
         "hostile"
