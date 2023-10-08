@@ -1983,8 +1983,7 @@
         "fly|true"
     ],
     "net.minecraft.entity.passive.EntityBat": [
-        "fly|true",
-        "potionEffect|16,20,0,false"
+        "fly|true"
     ],
     "net.minecraft.entity.monster.EntityBlaze": [
         "fly|false",
